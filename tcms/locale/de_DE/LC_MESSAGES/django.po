@@ -29,7 +29,7 @@ msgid "Description of problem:\n\n\n"
 "Additional info:"
 msgstr "Beschreibung des Problems:\n\n\n"
 "Wie oft kann es reproduziert werden:\n\n\n"
-"Schrite zur Reproduktion:\n"
+"Schritte zur Reproduktion:\n"
 "1.\n"
 "2.\n"
 "3.\n\n\n"
@@ -1113,7 +1113,7 @@ msgstr "Willkommen beim Kiwi TCMS"
 
 #: tcms/templates/registration/login.html:50
 msgid "Please login to get started"
-msgstr "Bitte melden Sie sich an, um loszulegen"
+msgstr "Bitte anmelden, um loszulegen"
 
 #: tcms/templates/registration/login.html:52
 msgid "or"
@@ -1121,7 +1121,7 @@ msgstr "oder"
 
 #: tcms/templates/registration/login.html:53
 msgid "register an account"
-msgstr "account erstellen"
+msgstr "erstelle einen Account"
 
 #: tcms/templates/registration/login.html:54
 msgid "if you don't have one!"
@@ -1150,7 +1150,7 @@ msgstr "fordern Sie ein neues Zurücksetzen des Passworts an"
 
 #: tcms/templates/registration/password_reset_done.html:11
 msgid "Password reset email was sent"
-msgstr "E-Mail zum Zurücksetzung des Passworts wurde gesendet"
+msgstr "E-Mail zum Zurücksetzen des Passworts wurde gesendet"
 
 #: tcms/templates/registration/password_reset_form.html:16
 #: tcms/templates/registration/registration_form.html:39
